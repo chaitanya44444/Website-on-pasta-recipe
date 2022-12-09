@@ -1,0 +1,75 @@
+.div123 {
+  font-family: "Lucida Sans", sans-serif;
+  width: 100%;
+  height:100%;
+}
+
+.myDiv {
+  border: 2px outset red;
+  height:500vhx;
+ margin-left:15%;
+margin-right:15%;
+ width:146vh;
+  background:  lightblue;    
+  text-align: center;
+
+
+}
+
+.yDiv {
+  border: 2px outset red;
+  height:500vhx;
+ margin-left:15%;
+margin-right:15%;
+ width:146vh;
+  background:  lightblue;    
+  text-align: center;
+}
+.bg2 {
+  border: 2px outset red;
+ margin: 25px;
+  background:white;    
+  text-align: center;
+width:146vh;
+}
+.bg1 {
+  border: 2px outset red;
+  height:500vhx;
+ margin-left:15%;
+margin-right:15%;
+  background:  #85DCBA;    
+  text-align: center;
+width:146vh;
+}
+.center3 {
+  text-align: center;
+  color: black;
+
+}
+.center2 {
+ height:200px;
+  width: 10%;
+ align:center;
+
+}
+
+.center56 {
+ 
+ border: 2px outset red;
+  height:500px;
+ margin-left:15%;
+margin-right:15%;
+  background:  #85DCBA;  
+ 
+  text-align: center;
+
+}
+
+.center5 {
+ 
+ border: 2px outset red;
+ height:100px;
+ margin-left:15%;
+margin-right:15%;
+  background:  #85DCBA;    
+  text-align: center;
